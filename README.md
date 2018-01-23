@@ -1,6 +1,11 @@
 # My Codewars Solutions (Python)
-<!--
+
 ## Status
+| Ranking |
+| --- |
+| [![CodeWars](https://www.codewars.com/users/jeppestaerk/badges/micro)](https://www.codewars.com/users/jeppestaerk) |
+
+<!--
 | Ranking | Build | Quality |
 | --- | --- | --- |
 | [![CodeWars](https://www.codewars.com/users/jeppestaerk/badges/micro)](https://www.codewars.com/users/jeppestaerk) | [![CircleCI](https://circleci.com/gh/jeppestaerk/My-CodeWars-Solutions-Java.svg?style=svg)](https://circleci.com/gh/jeppestaerk/My-CodeWars-Solutions-Java) | [![Tests](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=test_success_density)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) [![Coverage](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=coverage)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) [![Duplications](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars)<br>[![Smells](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=code_smells)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) [![Bugs](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=bugs)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) [![Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars)<br>[![Sqale](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) [![Reliability](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) [![Security](https://sonarcloud.io/api/badges/measure?key=io.staerk%3Acodewars&metric=security_rating)](https://sonarcloud.io/dashboard?id=io.staerk%3Acodewars) |
@@ -8,6 +13,9 @@
 ## My Solutions
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
+| 6 | [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [DecodeTheMorseCode.py](https://github.com/jeppestaerk/My-CodeWars-Solutions-Python/blob/master/kata/kyu6/DecodeTheMorseCode.py) |
+| 7 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms.py](https://github.com/jeppestaerk/My-CodeWars-Solutions-Python/blob/master/kata/kyu7/Isograms.py) |
+| 7 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) | [DisemvowelTrolls.py](https://github.com/jeppestaerk/My-CodeWars-Solutions-Python/blob/master/kata/kyu7/DisemvowelTrolls.py) |
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
