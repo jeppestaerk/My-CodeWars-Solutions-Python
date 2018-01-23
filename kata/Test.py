@@ -1,11 +1,10 @@
 import atexit
 from datetime import datetime
 
-"""
-Forked from: https://github.com/ChristianECooper/CodeWars-Python-TestFramework
-"""
+
 class Test(object):
     """
+    Forked from: https://github.com/ChristianECooper/CodeWars-Python-TestFramework
     Implements the test interface as described here:
     http://www.codewars.com/docs/python-test-reference-1
     """
